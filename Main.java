@@ -18,15 +18,6 @@ public class Main
         Feeder Ex6 = new Feeder(0); 
         System.out.println(Ex6.simulateManyDays(5, 10));
 
-
-
-        
-        // Feeder g = new Feeder (500);
-        // System.out.println(g.getCurrentFood());
-        // g.simulateOneDay(1);
-        // System.out.println(g.getCurrentFood());
-        // System.out.println(g.simulateManyDays(10, 5)); 
-        // System.out.println(g.getCurrentFood());
         
     }
 }
